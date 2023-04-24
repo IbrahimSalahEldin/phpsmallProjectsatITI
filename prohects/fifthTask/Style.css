@@ -1,0 +1,30 @@
+.text{
+    color: orangered;
+}
+.main{
+    background-color: rgb(248, 196, 118);
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+.img{
+    background-color:orangered ;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+}
+.RegisterBtn{
+    background-color: orangered;
+    border: none;
+    font-weight: 700;
+    transition: all 0.8s ease ;
+}
+.RegisterBtn:hover{
+    border: transparent solid 3px;
+    background-color: white;
+    color: orangered;
+    transform: scale(1.1);
+}
